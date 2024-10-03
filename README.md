@@ -29,6 +29,6 @@ Las Etiquetas en __*markdown*__ y HTML pueden anidarse
 
 ### Como poner una imagen
 
-![TextoAlternativo](C:\Repositorio ASIX1 "Titulo opcional") 
+![TextoAlternativo](Ubicaciondelaimagen "Titulo opcional") 
 
 

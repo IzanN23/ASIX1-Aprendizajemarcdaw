@@ -31,5 +31,10 @@ Las Etiquetas en __*markdown*__ y HTML pueden anidarse
 
 ![Imagen Venom](https://github.com/IzanN23/ASIX1-Aprendizajemarcdaw/blob/main/Ubicaciondelaimagen "Titulo opcional") 
 
+| Titulo 1 | Titulo 2 | Titulo 3 |
+| ----------|:----------:|----------:|
+|SMX2 |Curso 2324|25|
+|ASIX1|Curso 2425|33|
+|Daw1 |Curso 2425|32|
 
 

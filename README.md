@@ -23,3 +23,12 @@ Las Etiquetas en __*markdown*__ y HTML pueden anidarse
 - Segudno punto de lista desordenada
 + Tercer punto de lista desordenada
 
+### Como poner un link
+[TextoClicable](URL "Titulo opcional")
+[Pagina web de jesuites Bellvitge](https://www.fje.edu/ca/fje "Titulo opcional")
+
+### Como poner una imagen
+
+![TextoAlternativo](C:\Repositorio ASIX1 "Titulo opcional") 
+
+
